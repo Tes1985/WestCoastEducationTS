@@ -1,0 +1,14 @@
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.AssemblyInfoInputs.cache
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.AssemblyInfo.cs
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.csproj.CoreCompileInputs.cache
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\bin\Debug\net8.0\WestCoastEducationTS.exe
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\bin\Debug\net8.0\WestCoastEducationTS.deps.json
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\bin\Debug\net8.0\WestCoastEducationTS.runtimeconfig.json
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\bin\Debug\net8.0\WestCoastEducationTS.dll
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\bin\Debug\net8.0\WestCoastEducationTS.pdb
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.dll
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\refint\WestCoastEducationTS.dll
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.pdb
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\WestCoastEducationTS.genruntimeconfig.cache
+C:\c#\InlämningsUppgifter\WestCoastEducationTS\obj\Debug\net8.0\ref\WestCoastEducationTS.dll

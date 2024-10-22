@@ -1,0 +1,74 @@
+[
+  {
+    "kursinfo": {
+      "kursNummer": 1,
+      "titel": "Programmering 1",
+      "längdIVeckor": 4,
+      "kursTyp": "Distans",
+      "start": "2025-01-06",
+      "slut": "2025-01-31"
+    },
+    "lärare": {
+      "kurs": "Programmering 1",
+      "kunskapsOmråde": "Programmering",
+      "nummer": 1,
+      "namn": "Peter",
+      "efterNamn": "Klan",
+      "telefonNummer": "0418-334455",
+      "personNummer": "19890908-2234",
+      "adress": {
+        "adressLine": "Snigelgatan 3",
+        "postNummer": "454 77",
+        "ort": "Stockholm"
+      }
+    }
+  },
+  {
+    "kursinfo": {
+      "kursNummer": 2,
+      "titel": "Devops",
+      "längdIVeckor": 4,
+      "kursTyp": "PlatsBunden",
+      "start": "2025-01-06",
+      "slut": "2025-01-31"
+    },
+    "lärare": {
+      "kurs": "Devops",
+      "kunskapsOmråde": "Systemutvecklare",
+      "nummer": 2,
+      "namn": "Sven",
+      "efterNamn": "Lundeberg",
+      "telefonNummer": "040-123456",
+      "personNummer": "20001222-0209",
+      "adress": {
+        "adressLine": "Ljusvägen 23",
+        "postNummer": "261 89",
+        "ort": "Helsingborg"
+      }
+    }
+  },
+  {
+    "kursinfo": {
+      "kursNummer": 3,
+      "titel": "Databas",
+      "längdIVeckor": 4,
+      "kursTyp": "Distans",
+      "start": "2025-01-06",
+      "slut": "2025-01-31"
+    },
+    "lärare": {
+      "kurs": "Databas",
+      "kunskapsOmråde": "SystemUtvecklare",
+      "nummer": 3,
+      "namn": "Filip",
+      "efterNamn": "Nordström",
+      "telefonNummer": "044-987654",
+      "personNummer": "19680102-3313",
+      "adress": {
+        "adressLine": "Isgatan 6",
+        "postNummer": "343 78",
+        "ort": "Kiruna"
+      }
+    }
+  }
+]
