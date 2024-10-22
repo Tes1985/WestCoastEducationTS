@@ -42,7 +42,7 @@ class Program
             Console.WriteLine(kurs.ToString());
         }
 
-        // Visa student info...
+        // Visa student informaton
         Console.WriteLine("Info om studenter:");
         foreach (var student in admin.Studenter)
         {
